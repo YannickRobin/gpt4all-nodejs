@@ -1,1 +1,14 @@
 # gpt4all-nodejs
+
+GPT4All is an open-source ChatGPT clone based on inference code for LLaMA models (7 Millions parameters).
+It can run on a laptop and users can interact with the bot by command line.
+
+`gpt4all-nodejs` project is a simple NodeJS server to provide a chatbot web interface to interact with GPT4All.
+
+# Try yourself
+
+- Install GTP4All following these instructions: https://github.com/nomic-ai/gpt4all
+- Clone this repository
+- Change `GPT4ALL_HOME` for all in `index.js`
+- Execute `node index.js`
+- Open the web chat in your browser: http://localhost:3000
