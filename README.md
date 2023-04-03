@@ -9,6 +9,7 @@ It can run on a laptop and users can interact with the bot by command line.
 
 - Install GTP4All following these instructions: https://github.com/nomic-ai/gpt4all
 - Clone this repository
+- cd `gpt4all-nodejs`
 - Change `GPT4ALL_HOME` for all in `index.js`
 - Execute `npm install`
 - Execute `node index.js`
