@@ -1,6 +1,6 @@
 # gpt4all-nodejs
 
-GPT4All is an open-source ChatGPT clone based on inference code for LLaMA models (7 Millions parameters).
+GPT4All is an open-source ChatGPT clone based on inference code for LLaMA models (7B parameters).
 It can run on a laptop and users can interact with the bot by command line.
 
 `gpt4all-nodejs` project is a simple NodeJS server to provide a chatbot web interface to interact with GPT4All.
